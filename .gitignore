@@ -1,5 +1,5 @@
 # Excel temp files
-~$*.xls*
+~$*.xl*
 
 # Backup files
 *.bak
