@@ -1,0 +1,16 @@
+# Excel temp files
+~$*.xls*
+
+# Backup files
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# Optional: ignore exported files
+*.csv
